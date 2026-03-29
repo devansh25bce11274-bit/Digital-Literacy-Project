@@ -1,4 +1,4 @@
-🛡️ Stay Safe Online: The College Student’s Checklist
+ Stay Safe Online: The College Student’s Checklist
 1.	Verify Before You PIN (UPI Safety): Never enter your UPI PIN to receive money. Remember: a PIN is only required to send money or check your balance. If someone sends you a "QR code" or "Collect Request" to pay you, it is a scam.
 2.	Enable SIM Platform Lock: Set a PIN on your SIM card. In India, "SIM Swapping" is a common way for hackers to intercept your OTPs. A SIM lock prevents your number from being used in another device if your phone is stolen.
 3.	Audit Your "Official" Calls: If you receive a call from someone claiming to be from the Police, CBI, or Customs (often called "Digital Arrest" scams), hang up. Real government agencies never demand money or "clearance" via video calls or WhatsApp.
